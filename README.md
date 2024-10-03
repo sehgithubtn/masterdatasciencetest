@@ -1,2 +1,2 @@
- masterdatasciencetest
-  hi welcome to my repository
+Master Data Science
+  Hi welcome to my repository
